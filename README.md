@@ -56,9 +56,9 @@ In statistics, we focus on four areas. (Summarized from the videos above.)
 3. outliers
 4. Statistical assumptions
 
-### Multiple Regression
+### Two-way ANOVA
 
-Multiple regression is used to predict the value of a continuous variable from predictor variables. Not only does it assess the strength and direction of the relationships between the predictor variables and the outcome variable when controlling for the other variables in the model. Multiple linear regression belongs to a family of tests known as parametric tests and has similar distributional assumptions.
+The two-way ANOVA is used to compare group means between multiple groups (2 or more) and the interaction when you have two independent categorical variables. It allows us to test if groups behave differently under different conditions.
 
 ### Jamovi part
 
