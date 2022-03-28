@@ -1,5 +1,7 @@
 # Two-way ANOVA Exercise
 
+A video demonstration for completing this assignment can be seen here: https://youtu.be/zEVUmkEC24s
+
 ## Summary of steps to complete
 
 - [ ] Fork this repository so you have your own copy to work on.
